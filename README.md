@@ -1,2 +1,2 @@
 # Python_selenium
-Python'da bulunan Selenium kütüphanesi kullanarak internet üzerindeki sitelerde otomatik giriş yapmayı ve farklı işlemler yapmayı denedim.
+I used Selenium module in Python to login automatically on social media platforms(like instagram) and to do different operations on this websites.
